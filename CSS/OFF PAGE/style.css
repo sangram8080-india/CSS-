@@ -1,0 +1,31 @@
+body{
+	margin:0;
+}
+.head{
+	background:black; 
+	height:100px;
+}
+.menu{
+	background:orange;
+	height:60px;
+	font-size:30px;
+}
+.menu a{
+	   text-decoration:none;
+}
+.con{
+	background:skyblue;
+	height:400px;
+}
+.con1{
+	background:green;
+	height:400px;
+}
+.con2{
+	background:pink;
+	height:400px;
+}
+.con3{
+	background:purple;
+	height:400px;
+}
